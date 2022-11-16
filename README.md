@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @joherrera15
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Hola  soy Jose luis herrera Patiño Ingeniero de sistema egresado de la Corporación Universitaria Remington con 12 años de experiencia laboral en cargos relacionados con el área de desarrollo de software con conocimiento en lenguaje de programación como C#, visual Basic y Asp Net. También tengo conocimiento de base de datos como SQL Server y Oracle 
+Profesional con capacidad de residencia, trabajo en equipo, creatividad, adaptabilidad, responsabilidad y alto sentido de compromiso
+
+joherrera15/joherrera15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
